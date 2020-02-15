@@ -42,7 +42,7 @@
     "webpack-cli": "^3.3.4",
     "webpack-fix-style-only-entries": "^0.3.0",
     "webpack-merge": "^4.2.1",
-    "yarn": "^1.16.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "postinstall": "node build/startup",
